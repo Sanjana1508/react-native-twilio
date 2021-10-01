@@ -37,6 +37,7 @@
     "standard": "^13.1.0"
   },
   "dependencies": {
-    "prop-types": "^15.5.10"
+    "prop-types": "^15.5.10",
+    "react-native-twilio-video-webrtc": "github:blackuy/react-native-twilio-video-webrtc"
   }
 }
